@@ -5,6 +5,7 @@ To change company's name and stock, use proper code for STOCK and appropriate co
 In main.py file,
 
 On line 12, get your own API key for free by simply registering in "https://www.alphavantage.co/".
+
 On line 13, get your own API key for free by doing the same process as above in "https://newsapi.org/"
 
 In config.py file,
