@@ -13,8 +13,8 @@ Make sure to remember the username and the graph name which you create in the we
 After this current time of upload, the API parameters might change.
 
 <h2>Program Flow</h2>
-    <ol>1. Creating the User (POST Request)</ol>
-    <ol>1. Creating the Graph (POST Request)</ol>
-    <ol>1. Populate the Graph with Pixels (POST Request)</ol>
-    <ol>1. Updating the Graph (PUT Request)</ol>
-    <ol>5. Delete the Pixels from graph (DELETE Request)</ol>
+    <ol>1. Creating the User (POST Request).</ol>
+    <ol>2. Creating the Graph (POST Request).</ol>
+    <ol>3. Populate the Graph with Pixels (POST Request).</ol>
+    <ol>4. Updating the Graph (PUT Request).</ol>
+    <ol>5. Delete the Pixels from the graph (DELETE Request)</ol>
